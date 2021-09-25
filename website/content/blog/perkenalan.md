@@ -8,7 +8,6 @@ title = "perkenalan"
 toc = ""
 
 +++
-ed
 
 hii,perkenalkan nama saya debby andriyanto umur saya 17 tahun,saya sekolah di smkn pasirian ambil jurusan multimedia,hobby saya sepak bola,sikian dari saya terima kasih.
 
